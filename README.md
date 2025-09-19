@@ -18,7 +18,7 @@ emergency_contact = ("Mom", "Leia Wilder", "704-555-0199")
 home_address = ("456 Oak Street", "Charlotte", "NC", "28202")
 instagram_info = ("Instagram", "@awilder_2", 500)
 twitter_info = ("Twitter", "@awilder_2", 123)
-birthday = ("Birthday", 01, 22, 2005)
+birthday = ("Birthday", 1, 22, 2005)
 
 
 # Interest Tracking(sets)
